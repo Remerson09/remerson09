@@ -16,4 +16,4 @@
    <img align="center" alt="sql" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div><br/>
 
-Apaixonado por tecnologias, sempre me chamou atenção buscar, aprender e entender como funciona em um ambiente de trabalho.
+Apaixonado por tecnologias, sempre me chamou atenção, buscar aprender e entender, como funciona em um ambiente de trabalho.
