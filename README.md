@@ -20,7 +20,7 @@
     <img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=branco"/> 
     <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=branco"/> 
 </div>
-
+</div>
 ## 🌟 Sobre Mim
 Olá! Eu sou o Remerson, um entusiasta de tecnologia e desenvolvimento de software. Desde pequeno, sempre fui fascinado por como as coisas funcionam, e essa curiosidade me levou a explorar o mundo da programação.
 
@@ -28,7 +28,7 @@ Olá! Eu sou o Remerson, um entusiasta de tecnologia e desenvolvimento de softwa
 - **Desenvolvimento Web**: Adoro criar interfaces bonitas e funcionais.
 - **Programação em Java**: Estou sempre aprendendo mais sobre Java e suas aplicações.
 - **Tecnologias Emergentes**: Gosto de me manter atualizado sobre as últimas tendências em tecnologia.
-
+<div align="center">
 ### 🎮 Entretenimento
 Quando não estou programando, você pode me encontrar jogando em algumas das minhas plataformas favoritas: 
 <div style="display: inline-block"> 
@@ -36,7 +36,6 @@ Quando não estou programando, você pode me encontrar jogando em algumas das mi
     <img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/> 
     <img align="center" alt="Counter Strike" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"/> 
 </div>
-
 </div>
 
 ### 📚 Aprendizado Contínuo
