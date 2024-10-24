@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remerson-concei%C3%A7%C3%A3o)
 
 ![Remerson GitHub stats](https://github-readme-stats.vercel.app/api?username=remerson09&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remerson09&layout=donut-vertical)](https://github.com/remerson09/github-readme-stats)
+
 ## Tecnologias que uso hoje em dia
 <div style="display: inline-block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
