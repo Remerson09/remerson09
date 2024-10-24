@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remerson-concei%C3%A7%C3%A3o)
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Remerson09&show_icons=true&theme=highcontrast)
-![Principais Idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=Remerson09&hide=javascript,html)
+![Principais Idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=Remerson09&hide=javascript,html&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF)
 
 ## 💻 Tecnologias que uso hoje em dia
 <div style="display: inline-block"><br/>
