@@ -1,21 +1,13 @@
 
 <div align="center">
-  <h1>
-    <span id="welcome-message">Bem-vindo à minha página </span><span class="wave">👋</span>
-  </h1>
+  <h1>Bem-vindo à minha página <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 </div>
-
-
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/remerson_gd9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remerson-concei%C3%A7%C3%A3o)
 
-
-
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Remerson09&show_icons=true&theme=highcontrast&card_width=400)
 ![Principais Idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=Remerson09&hide=javascript,html&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&card_width=400)
-
-
 
 ### 💻 Tecnologias que uso hoje em dia
 <div style="display: inline-block" aling=""center> 
