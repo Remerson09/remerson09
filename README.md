@@ -19,7 +19,7 @@
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=branco"/> 
     <img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=branco"/> 
     <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=branco"/> 
-</div>
+</div><br>
 </div><br>
 ## 🌟 Sobre Mim
 Olá! Eu sou o Remerson, um entusiasta de tecnologia e desenvolvimento de software. Desde pequeno, sempre fui fascinado por como as coisas funcionam, e essa curiosidade me levou a explorar o mundo da programação.
