@@ -1,7 +1,48 @@
 
 <div align="center">
-    <h1># Bem-vindo à minha página 👋 </h1>
-</div><br> 
+  <h1>
+    <span id="welcome-message">Bem-vindo à minha página </span><span class="wave">👋</span>
+  </h1>
+</div>
+
+<style>
+  .wave {
+    display: inline-block;
+    animation: wave-animation 2s infinite;
+    transform-origin: 70% 70%;
+  }
+
+  @keyframes wave-animation {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(14deg); }
+    20% { transform: rotate(-8deg); }
+    30% { transform: rotate(14deg); }
+    40% { transform: rotate(-4deg); }
+    50% { transform: rotate(10deg); }
+    60% { transform: rotate(0deg); }
+    100% { transform: rotate(0deg); }
+  }
+
+  #welcome-message {
+    display: inline-block;
+    overflow: hidden;
+    border-right: .15em solid orange;
+    white-space: nowrap;
+    margin: 0 auto;
+    letter-spacing: .15em;
+    animation: typing 3.5s steps(30, end), blink-caret .75s step-end infinite;
+  }
+
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+
+  @keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: orange; }
+  }
+</style>
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/remerson_gd9)
