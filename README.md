@@ -1,6 +1,7 @@
 
-<div align="center">
+<div align="center" style="border: 5px solid transparent; padding: 20px;">
   <h1>Bem-vindo à minha página <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <img src="https://pa1.aminoapps.com/7118/6f05d611b4fdc9775f28ea21e1392417e3bc8439r1-540-300_hq.gif" alt="Bem-vindo animado" />
 </div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/remerson_gd9)
