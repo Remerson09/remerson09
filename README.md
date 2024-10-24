@@ -1,13 +1,13 @@
 
 
 # Bem-vindo à minha página 👋
-
+<div styler="display: inline-block">
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/remerson_gd9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remerson-concei%C3%A7%C3%A3o)
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Remerson09&show_icons=true&theme=highcontrast&card_width=400)
 ![Principais Idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=Remerson09&hide=javascript,html&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&card_width=400)
-
+</div><br>
 <div align="center">
 
 ### 💻 Tecnologias que uso hoje em dia
