@@ -39,6 +39,9 @@ Quando não estou programando, você pode me encontrar jogando em algumas das mi
     <img align="center" alt="Riot Games" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/> 
     <img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/> 
     <img align="center" alt="Counter Strike" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"/> 
+    <img alin="center" alt="Epic Games" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/>
+      <img alin="center" alt="Epic Games" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
+    
 </div>
 </div><br>
 
