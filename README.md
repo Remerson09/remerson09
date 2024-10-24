@@ -1,3 +1,5 @@
+<div style="text-align: center;">
+
 # Bem-vindo à minha página 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/remerson_gd9)
@@ -24,6 +26,7 @@ Olá! Eu sou o Remerson, um entusiasta de tecnologia e desenvolvimento de softwa
 - **Desenvolvimento Web**: Adoro criar interfaces bonitas e funcionais.
 - **Programação em Java**: Estou sempre aprendendo mais sobre Java e suas aplicações.
 - **Tecnologias Emergentes**: Gosto de me manter atualizado sobre as últimas tendências em tecnologia.
+
 ### 🎮 Entretenimento
 Quando não estou programando, você pode me encontrar jogando em algumas das minhas plataformas favoritas:
 <div style="display: inline-block"><br/>
@@ -32,9 +35,12 @@ Quando não estou programando, você pode me encontrar jogando em algumas das mi
   <img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
   <img align="center" alt="Counter Strike" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"/>
 </div><br/>
+
 ### 📚 Aprendizado Contínuo
 Acredito que o aprendizado nunca termina. Estou sempre buscando novos cursos e projetos para expandir meu conhecimento e habilidades.
 
 ---
 
 Sinta-se à vontade para se conectar comigo! Estou sempre aberto a colaborações e novas ideias. Vamos criar algo incrível juntos! 🚀
+
+</div>
