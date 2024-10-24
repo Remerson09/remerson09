@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+
 
 # Bem-vindo à minha página 👋
 
@@ -46,4 +46,4 @@ Acredito que o aprendizado nunca termina. Estou sempre buscando novos cursos e p
 
 Sinta-se à vontade para se conectar comigo! Estou sempre aberto a colaborações e novas ideias. Vamos criar algo incrível juntos! 🚀
 
-</div>
+
