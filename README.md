@@ -24,7 +24,11 @@ Olá! Eu sou o Remerson, um entusiasta de tecnologia e desenvolvimento de softwa
 - **Desenvolvimento Web**: Adoro criar interfaces bonitas e funcionais.
 - **Programação em Java**: Estou sempre aprendendo mais sobre Java e suas aplicações.
 - **Tecnologias Emergentes**: Gosto de me manter atualizado sobre as últimas tendências em tecnologia.
-
+### 🎮 Entretenimento
+Quando não estou programando, você pode me encontrar jogando em algumas das minhas plataformas favoritas:
+- [Steam](https://store.steampowered.com/)
+- [Valorant](https://playvalorant.com/)
+- [PlayStation](https://www.playstation.com/)
 ### 📚 Aprendizado Contínuo
 Acredito que o aprendizado nunca termina. Estou sempre buscando novos cursos e projetos para expandir meu conhecimento e habilidades.
 
