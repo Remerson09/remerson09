@@ -26,9 +26,12 @@ Olá! Eu sou o Remerson, um entusiasta de tecnologia e desenvolvimento de softwa
 - **Tecnologias Emergentes**: Gosto de me manter atualizado sobre as últimas tendências em tecnologia.
 ### 🎮 Entretenimento
 Quando não estou programando, você pode me encontrar jogando em algumas das minhas plataformas favoritas:
-- [Steam](https://store.steampowered.com/)
-- [Valorant](https://playvalorant.com/)
-- [PlayStation](https://www.playstation.com/)
+<div style="display: inline-block"><br/>
+  <img align="center" alt="Epic Games" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/>
+  <img align="center" alt="Riot Games" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/>
+  <img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+  <img align="center" alt="Counter Strike" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"/>
+</div><br/>
 ### 📚 Aprendizado Contínuo
 Acredito que o aprendizado nunca termina. Estou sempre buscando novos cursos e projetos para expandir meu conhecimento e habilidades.
 
