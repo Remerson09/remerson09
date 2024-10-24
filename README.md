@@ -31,7 +31,7 @@ Olá! Eu sou o Remerson, um entusiasta de tecnologia e desenvolvimento de softwa
 <div align="center">
 ### 🎮 Entretenimento
 Quando não estou programando, você pode me encontrar jogando em algumas das minhas plataformas favoritas: 
-<div style="display: inline-block"> 
+<div style="display: inline-block"><br>
     <img align="center" alt="Riot Games" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/> 
     <img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/> 
     <img align="center" alt="Counter Strike" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"/> 
