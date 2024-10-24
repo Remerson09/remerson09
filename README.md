@@ -1,5 +1,5 @@
 
-<div>
+<div align="center">
     <h1># Bem-vindo à minha página 👋 </h1>
 </div>   
 
