@@ -29,7 +29,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=branco)&nbsp;
 
 ### 🎯 Meus Interesses
-- **Desenvolvimento Web**: Adoro criar interfaces bonitas e funcionais.
+- **Desenvolvimento Web**: Gosto de criar interfaces bonitas e funcionais.
 - **Programação em Java**: Estou sempre aprendendo mais sobre Java e suas aplicações.
 - **Tecnologias Emergentes**: Gosto de me manter atualizado sobre as últimas tendências em tecnologia.
 
