@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Remerson+;I'm+23+years+old;I'm+from+Brazil;I'm+majoring+in+Systems+for+Internet;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center" style="border: 5px solid transparent; padding: 20px;">
-  <img src="https://pa1.aminoapps.com/7118/6f05d611b4fdc9775f28ea21e1392417e3bc8439r1-540-300_hq.gif" alt="Bem-vindo animado" />
+  <img src="https://media.tenor.com/X8854xxuQ_EAAAAM/destroy-code-mad.gif" alt="Bem-vindo animado" />
 </div>
 <br>
 
