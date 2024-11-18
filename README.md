@@ -49,4 +49,3 @@ Acredito que o aprendizado nunca termina. Estou sempre buscando novos cursos e p
 
 Sinta-se à vontade para se conectar comigo! Estou sempre aberto a colaborações e novas ideias. Vamos criar algo incrível juntos! 🚀
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=spider&color=E3963E&height=120§ion=footer" />
