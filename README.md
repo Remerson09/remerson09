@@ -43,7 +43,9 @@
 
 
 ### 📚 Aprendizado Contínuo
-Acredito que o aprendizado nunca termina. Estou sempre buscando novos cursos e projetos para expandir meu conhecimento e habilidades.
+Eu sou o Remerson, desenvolvedor entusiasta por tecnologia e aprendizado contínuo. Atualmente curso Sistema para Internet e aplico meus conhecimentos em projetos Full Stack que unem teoria, prática e propósito.
+
+Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa.
 <div style="background-color: black; padding: 20px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
